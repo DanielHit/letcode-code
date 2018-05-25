@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25fb99c-8821-4b7f-b7ed-9ab5b60c2ec7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FlatternTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LinkedListCycle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/SellStock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/SingleNumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/SymmetricTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Traversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/TreeMax.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/WordBreak.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Base64Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClassLoaderTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaCompilerTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SerializerTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestAssert$Inner.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestAssert.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestMo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testDemo.iws" afterPath="$PROJECT_DIR$/testDemo.iws" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SymmetricTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SymmetricTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SymmetricTree.java">
           <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
             <state relative-caret-position="0">
@@ -92,8 +76,8 @@
             </state>
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+            <state relative-caret-position="262">
+              <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,7 +165,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
             <state relative-caret-position="0">
@@ -189,8 +173,8 @@
             </state>
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -257,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/main/java/TreeMax.java" />
         <option value="$PROJECT_DIR$/src/main/java/Traversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/SymmetricTree.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -626,15 +611,16 @@
       <workItem from="1527129409833" duration="12152000" />
       <workItem from="1527150636399" duration="677000" />
       <workItem from="1527224567494" duration="9968000" />
-      <workItem from="1527254343506" duration="6997000" />
+      <workItem from="1527254343506" duration="7045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61728000" />
+    <option name="totallyTimeSpent" value="61776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -661,7 +647,7 @@
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32303733" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.48380354" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.48380354" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1167,6 +1153,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,6 +1179,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,7 +1193,7 @@
         <state relative-caret-position="132">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1219,6 +1207,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,6 +1220,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1311,7 +1301,7 @@
         <state relative-caret-position="440">
           <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1326,8 +1316,8 @@
         <state relative-caret-position="35838">
           <caret line="1696" column="15" lean-forward="false" selection-start-line="1696" selection-start-column="15" selection-end-line="1696" selection-end-column="15" />
           <folding>
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#66457#66458#0" expanded="false" />
+            <element signature="e#66495#66496#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1354,19 +1344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6006">
           <caret line="296" column="12" lean-forward="false" selection-start-line="296" selection-start-column="12" selection-end-line="296" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1466,11 +1443,24 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        <state relative-caret-position="262">
+          <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
