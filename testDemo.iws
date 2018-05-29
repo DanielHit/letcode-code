@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25fb99c-8821-4b7f-b7ed-9ab5b60c2ec7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HeapTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/InorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MaxSubArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Subset.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/UniqueBinarySearchTrees.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ValidateBinarySearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ClimbeStars.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LetterCombinations.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MinimumPathSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/TrappingRainWater.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ColorSort.java" afterPath="$PROJECT_DIR$/src/main/java/ColorSort.java" />
+      <change beforePath="$PROJECT_DIR$/testDemo.ipr" afterPath="$PROJECT_DIR$/testDemo.ipr" />
       <change beforePath="$PROJECT_DIR$/testDemo.iws" afterPath="$PROJECT_DIR$/testDemo.iws" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,162 +24,201 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ValidateBinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ValidateBinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-412">
-              <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
+      <file leaf-file-name="ClimbeStars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ClimbeStars.java">
           <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="InorderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/InorderTraversal.java">
+      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MinimumPathSum.java">
+          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="880">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UTF_8.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/UTF_8.class">
+          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3520">
+              <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+              <folding>
+                <marker date="1444173647000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1444173647000" expanded="false" signature="134:435" ph="..." />
+                <marker date="1444173647000" expanded="false" signature="485:496" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="543:549" ph=" }" />
+                <marker date="1444173647000" expanded="false" signature="585:596" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="610:616" ph=" }" />
+                <marker date="1444173647000" expanded="false" signature="656:667" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="698:704" ph=" }" />
+                <marker date="1444173647000" expanded="false" signature="744:755" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="786:792" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="886:993" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1081:8341" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1177:1253" ph="{...}" />
+                <marker date="1444173647000" expanded="false" signature="1298:1313" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="1349:1359" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="1416:1514" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1614:1725" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1798:1883" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1963:4377" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="4458:6276" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="6359:6496" ph="{...}" />
+                <marker date="1444173647000" expanded="false" signature="6549:6564" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="6584:6594" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="6668:8335" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="8423:28763" ph="{...}" />
+                <marker date="1444173647000" expanded="false" signature="8462:8477" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="8501:8511" ph=" }" />
+                <marker date="1444173647000" expanded="false" signature="8571:8586" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="8613:8623" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="8699:8811" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="8879:8968" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="9044:9141" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="9209:9343" ph="{...}" />
+                <marker date="1444173647000" expanded="false" signature="9400:9415" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="9442:9452" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="9524:9796" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="9871:10876" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="10987:11191" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="11275:11432" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="11552:11679" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="11772:11873" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="11982:12152" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="12228:12377" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="12457:17261" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="17342:21477" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="21554:21691" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="21781:21943" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="22017:28757" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharsetEncoder.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/charset/CharsetEncoder.java">
+          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11792">
+              <caret line="578" column="0" lean-forward="false" selection-start-line="578" selection-start-column="0" selection-end-line="578" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamEncoder.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+              <folding>
+                <marker date="1444173647000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1444173647000" expanded="false" signature="134:559" ph="..." />
+                <marker date="1444173647000" expanded="true" signature="1010:1107" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1244:1652" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1754:1813" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="1922:1981" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="2083:2142" ph="{...}" />
+                <marker date="1444173647000" expanded="false" signature="2175:2186" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="2236:2242" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="2293:2541" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="2594:2687" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="2763:3188" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="3264:3517" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="3562:3707" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="3752:3952" ph="{...}" />
+                <marker date="1444173647000" expanded="false" signature="3982:3993" ph=" { " />
+                <marker date="1444173647000" expanded="false" signature="4012:4018" ph=" }" />
+                <marker date="1444173647000" expanded="true" signature="4092:4237" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="4318:4641" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="4726:5000" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="5051:5516" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="5603:6890" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="6963:7751" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="7799:7886" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="7928:8040" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="8082:8970" ph="{...}" />
+                <marker date="1444173647000" expanded="true" signature="8998:9137" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCombinations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LetterCombinations.java">
+          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByteBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="310" column="29" lean-forward="false" selection-start-line="310" selection-start-column="29" selection-end-line="310" selection-end-column="29" />
-              <folding>
-                <element signature="e#9208#9209#0" expanded="true" />
-                <element signature="e#9261#9262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="847">
-              <caret line="575" column="19" lean-forward="false" selection-start-line="575" selection-start-column="19" selection-end-line="575" selection-end-column="19" />
+            <state relative-caret-position="130">
+              <caret line="1966" column="0" lean-forward="false" selection-start-line="1966" selection-start-column="0" selection-end-line="1966" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputStreamWriter.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/OutputStreamWriter.java">
           <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectByteBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/DirectByteBuffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="120" column="31" lean-forward="false" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+            <state relative-caret-position="3938">
+              <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeapTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HeapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UniqueBinarySearchTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxSubArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MaxSubArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subset.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Subset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="670">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unsafe.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="227" column="23" lean-forward="false" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             </state>
           </provider>
         </entry>
@@ -252,6 +291,14 @@
         <option value="$PROJECT_DIR$/src/main/java/UniqueBinarySearchTrees.java" />
         <option value="$PROJECT_DIR$/src/main/java/MaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/Subset.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ColorSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ClimbeStars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/StackOverFlow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/ThreadStackOverflow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/StringInternTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LetterCombinations.java" />
       </list>
     </option>
   </component>
@@ -268,9 +315,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1920" />
-    <option name="y" value="-157" />
-    <option name="width" value="1920" />
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -289,7 +336,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,9 +368,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,7 +390,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Subset">
+  <component name="RunManager" selected="Application.LetterCombinations">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -351,10 +398,10 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ClimbeStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="recording" autostart="false" />
-      <option name="MAIN_CLASS_NAME" value="HeapTest" />
+      <option name="MAIN_CLASS_NAME" value="ClimbeStars" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -366,10 +413,10 @@
       <module name="testDemo" />
       <envs />
     </configuration>
-    <configuration name="Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ColorSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="recording" autostart="false" />
-      <option name="MAIN_CLASS_NAME" value="Subset" />
+      <option name="MAIN_CLASS_NAME" value="ColorSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -381,10 +428,10 @@
       <module name="testDemo" />
       <envs />
     </configuration>
-    <configuration name="SymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="recording" autostart="false" />
-      <option name="MAIN_CLASS_NAME" value="SymmetricTree" />
+      <option name="MAIN_CLASS_NAME" value="LetterCombinations" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -396,10 +443,10 @@
       <module name="testDemo" />
       <envs />
     </configuration>
-    <configuration name="Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumPathSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="recording" autostart="false" />
-      <option name="MAIN_CLASS_NAME" value="Traversal" />
+      <option name="MAIN_CLASS_NAME" value="MinimumPathSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -411,10 +458,35 @@
       <module name="testDemo" />
       <envs />
     </configuration>
-    <configuration name="ValidateBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="StackOverFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.daniel.hu.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <extension name="recording" autostart="false" />
-      <option name="MAIN_CLASS_NAME" value="ValidateBinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="com.daniel.hu.jvm.StackOverFlow" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jvm-test-demo" />
+      <envs />
+    </configuration>
+    <configuration name="ThreadStackOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.daniel.hu.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="false" />
+      <option name="MAIN_CLASS_NAME" value="jvm.ThreadStackOverflow" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -503,20 +575,21 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Traversal" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SymmetricTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ValidateBinarySearch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HeapTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Subset" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.MinimumPathSum" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClimbeStars" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ColorSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StackOverFlow" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ThreadStackOverflow" />
+      <item index="5" class="java.lang.String" itemvalue="Application.LetterCombinations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Subset" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ValidateBinarySearch" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HeapTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SymmetricTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Traversal" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LetterCombinations" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreadStackOverflow" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StackOverFlow" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ClimbeStars" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ColorSort" />
       </list>
     </recent_temporary>
   </component>
@@ -543,15 +616,19 @@
       <workItem from="1527224567494" duration="9968000" />
       <workItem from="1527254343506" duration="7273000" />
       <workItem from="1527301329302" duration="1600000" />
-      <workItem from="1527471673775" duration="8417000" />
+      <workItem from="1527471673775" duration="11772000" />
+      <workItem from="1527496928984" duration="3196000" />
+      <workItem from="1527559442979" duration="994000" />
+      <workItem from="1527560841486" duration="72000" />
+      <workItem from="1527566479578" duration="1588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72021000" />
+    <option name="totallyTimeSpent" value="81226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-157" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -580,7 +657,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.95193315" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.48380354" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5" sideWeight="0.48380354" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5161964" order="2" side_tool="true" content_ui="tabs" />
@@ -698,8 +775,32 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MinimumPathSum.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MinimumPathSum.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MinimumPathSum.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MinimumPathSum.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -733,475 +834,294 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2662">
-          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="970" column="37" lean-forward="false" selection-start-line="970" selection-start-column="37" selection-end-line="970" selection-end-column="37" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="157" column="33" lean-forward="false" selection-start-line="157" selection-start-column="33" selection-end-line="157" selection-end-column="33" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Resource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="72" column="54" lean-forward="false" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="260" column="27" lean-forward="false" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="252" column="34" lean-forward="false" selection-start-line="252" selection-start-column="34" selection-end-line="252" selection-end-column="34" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="1089" column="25" lean-forward="false" selection-start-line="1089" selection-start-column="25" selection-end-line="1089" selection-end-column="25" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClassLoaderTest.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="1121" column="29" lean-forward="false" selection-start-line="1121" selection-start-column="29" selection-end-line="1121" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="226" column="6" lean-forward="false" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18700">
-          <caret line="884" column="5" lean-forward="false" selection-start-line="884" selection-start-column="5" selection-end-line="884" selection-end-column="5" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2288">
           <caret line="139" column="57" lean-forward="false" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81994">
           <caret line="3798" column="30" lean-forward="false" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#10659#10660#0" expanded="false" />
-            <element signature="e#10730#10731#0" expanded="false" />
-            <element signature="e#12536#12537#0" expanded="false" />
-            <element signature="e#12595#12596#0" expanded="false" />
-            <element signature="e#177013#177014#0" expanded="false" />
-            <element signature="e#177054#177055#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/GroupTest.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LongestParam.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LongestParam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MathPow.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MathPow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Parser.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Permutations.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PlainTest.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PlainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReverInteger.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SerializerTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/TestAssert.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/RotateImage.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedListCycle.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LinkedListCycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SellStock.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WordBreak.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35838">
-          <caret line="1696" column="15" lean-forward="false" selection-start-line="1696" selection-start-column="15" selection-end-line="1696" selection-end-column="15" />
-          <folding>
-            <element signature="e#66457#66458#0" expanded="false" />
-            <element signature="e#66495#66496#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FlatternTree.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding>
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#657#658#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TreeMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SymmetricTree.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15048">
           <caret line="707" column="12" lean-forward="false" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18832">
-          <caret line="903" column="18" lean-forward="false" selection-start-line="903" selection-start-column="18" selection-end-line="903" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6006">
-          <caret line="296" column="12" lean-forward="false" selection-start-line="296" selection-start-column="12" selection-end-line="296" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6006">
+          <caret line="296" column="12" lean-forward="false" selection-start-line="296" selection-start-column="12" selection-end-line="296" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9086">
-          <caret line="456" column="54" lean-forward="false" selection-start-line="456" selection-start-column="54" selection-end-line="456" selection-end-column="54" />
-          <folding>
-            <element signature="e#14422#14423#0" expanded="true" />
-            <element signature="e#14458#14459#0" expanded="true" />
-            <element signature="e#15754#15755#0" expanded="true" />
-            <element signature="e#15788#15789#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9086">
+          <caret line="456" column="54" lean-forward="false" selection-start-line="456" selection-start-column="54" selection-end-line="456" selection-end-column="54" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Traversal.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
@@ -1210,162 +1130,378 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="310" column="29" lean-forward="false" selection-start-line="310" selection-start-column="29" selection-end-line="310" selection-end-column="29" />
-          <folding>
-            <element signature="e#9208#9209#0" expanded="true" />
-            <element signature="e#9261#9262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="310" column="29" lean-forward="false" selection-start-line="310" selection-start-column="29" selection-end-line="310" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="227" column="23" lean-forward="false" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="227" column="23" lean-forward="false" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/DirectByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="120" column="31" lean-forward="false" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="120" column="31" lean-forward="false" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/InorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ValidateBinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-412">
-          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HeapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#113#114#0" expanded="false" />
+            <element signature="e#161#162#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/UniqueBinarySearchTrees.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MaxSubArray.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Subset.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18832">
+          <caret line="903" column="18" lean-forward="false" selection-start-line="903" selection-start-column="18" selection-end-line="903" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="847">
-          <caret line="575" column="19" lean-forward="false" selection-start-line="575" selection-start-column="19" selection-end-line="575" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Subset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="7524">
+          <caret line="375" column="36" lean-forward="false" selection-start-line="375" selection-start-column="36" selection-end-line="375" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#13541#13542#0" expanded="false" />
+            <element signature="e#13596#13597#0" expanded="false" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TrappingRainWater.java">
       <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ColorSort.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClimbeStars.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MinimumPathSum.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/tmp/seven-concurrency-models-in-seven-weeks/ThreadsLocks/Jvm-Test-Demo/src/com/daniel/hu/jvm/StackOverFlow.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/UTF_8.class">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3520">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding>
+            <marker date="1444173647000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1444173647000" expanded="false" signature="134:435" ph="..." />
+            <marker date="1444173647000" expanded="false" signature="485:496" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="543:549" ph=" }" />
+            <marker date="1444173647000" expanded="false" signature="585:596" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="610:616" ph=" }" />
+            <marker date="1444173647000" expanded="false" signature="656:667" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="698:704" ph=" }" />
+            <marker date="1444173647000" expanded="false" signature="744:755" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="786:792" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="886:993" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1081:8341" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1177:1253" ph="{...}" />
+            <marker date="1444173647000" expanded="false" signature="1298:1313" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="1349:1359" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="1416:1514" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1614:1725" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1798:1883" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1963:4377" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="4458:6276" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="6359:6496" ph="{...}" />
+            <marker date="1444173647000" expanded="false" signature="6549:6564" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="6584:6594" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="6668:8335" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="8423:28763" ph="{...}" />
+            <marker date="1444173647000" expanded="false" signature="8462:8477" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="8501:8511" ph=" }" />
+            <marker date="1444173647000" expanded="false" signature="8571:8586" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="8613:8623" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="8699:8811" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="8879:8968" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="9044:9141" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="9209:9343" ph="{...}" />
+            <marker date="1444173647000" expanded="false" signature="9400:9415" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="9442:9452" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="9524:9796" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="9871:10876" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="10987:11191" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="11275:11432" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="11552:11679" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="11772:11873" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="11982:12152" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="12228:12377" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="12457:17261" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="17342:21477" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="21554:21691" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="21781:21943" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="22017:28757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/nio/charset/CharsetEncoder.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11792">
+          <caret line="578" column="0" lean-forward="false" selection-start-line="578" selection-start-column="0" selection-end-line="578" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/OutputStreamWriter.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3938">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding>
+            <marker date="1444173647000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1444173647000" expanded="false" signature="134:559" ph="..." />
+            <marker date="1444173647000" expanded="true" signature="1010:1107" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1244:1652" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1754:1813" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="1922:1981" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="2083:2142" ph="{...}" />
+            <marker date="1444173647000" expanded="false" signature="2175:2186" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="2236:2242" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="2293:2541" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="2594:2687" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="2763:3188" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="3264:3517" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="3562:3707" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="3752:3952" ph="{...}" />
+            <marker date="1444173647000" expanded="false" signature="3982:3993" ph=" { " />
+            <marker date="1444173647000" expanded="false" signature="4012:4018" ph=" }" />
+            <marker date="1444173647000" expanded="true" signature="4092:4237" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="4318:4641" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="4726:5000" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="5051:5516" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="5603:6890" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="6963:7751" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="7799:7886" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="7928:8040" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="8082:8970" ph="{...}" />
+            <marker date="1444173647000" expanded="true" signature="8998:9137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/ThreadStackOverflow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/StringInternTest.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="1966" column="0" lean-forward="false" selection-start-line="1966" selection-start-column="0" selection-end-line="1966" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LetterCombinations.java">
+      <provider editor-type-id="com.vaadin.designer.intellij.htmlEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
